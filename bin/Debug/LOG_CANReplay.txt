@@ -1,0 +1,79 @@
+Error opening portHandle: -1, write channel: 4, status: XL_ERR_INVALID_CHAN_INDEX
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Connect OK to write channel: 1, portHandle: 0
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+useWhiteListID: True
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+stopped.
+Error opening portHandle: -1, write channel: 4, status: XL_ERR_INVALID_CHAN_INDEX
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Error opening portHandle: -1, write channel: 4, status: XL_ERR_INVALID_CHAN_INDEX
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Error opening portHandle: -1, write channel: 4, status: XL_ERR_INVALID_CHAN_INDEX
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Error opening portHandle: -1, write channel: 4, status: XL_ERR_INVALID_CHAN_INDEX
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Connect OK to write channel: 1, portHandle: 0
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+useWhiteListID: True
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+stopped.
+Connect OK to write channel: 1, portHandle: 0
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+Black list ID =  0x41E 0x431 0x48D 0x50D 0x60D 0x731
+White list ID =  0x80 0xD9 0x100 0x102 0x106 0x10A 0x112 0x127 0x128 0x129 0x12F 0x133 0x134 0x17E 0x1F8 0x1F9 0x206 0x209 0x20C 0x20D 0x215 0x21C 0x2CA 0x2F8 0x302 0x330 0x351 0x352 0x353 0x380 0x393 0x39D 0x3AF 0x3C4 0x3C5 0x3C6 0x3E0 0x3E1 0x3F7 0x40A 0x40D 0x411 0x422 0x432 0x435 0x436 0x437 0x43A 0x445 0x446 0x456 0x493 0x502 0x504 0x516 0x517 0x52F 0x68D 0x6EF 0x6FF 0x733 0x7DF
+Started
+Exception: A task may only be disposed if it is in a completion state (RanToCompletion, Faulted or Canceled).
+Close port OK: status1 = XL_SUCCESS, status2 = XL_SUCCESS
+Error sending message with CAN ID 0x17E: XL_ERR_INVALID_PORT
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Connect OK to write channel: 1, portHandle: 0
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+Black list ID =  0x41E 0x431 0x48D 0x50D 0x60D 0x731
+White list ID =  0x80 0xD9 0x100 0x102 0x106 0x10A 0x112 0x127 0x128 0x129 0x12F 0x133 0x134 0x17E 0x1F8 0x1F9 0x206 0x209 0x20C 0x20D 0x215 0x21C 0x2CA 0x2F8 0x302 0x330 0x351 0x352 0x353 0x380 0x393 0x39D 0x3AF 0x3C4 0x3C5 0x3C6 0x3E0 0x3E1 0x3F7 0x40A 0x40D 0x411 0x422 0x432 0x435 0x436 0x437 0x43A 0x445 0x446 0x456 0x493 0x502 0x504 0x516 0x517 0x52F 0x68D 0x6EF 0x6FF 0x733 0x7DF
+useWhiteListID: False
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+stopped.
+Error opening portHandle: -1, write channel: 4, status: XL_ERR_INVALID_CHAN_INDEX
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+Connect OK to write channel: 1, portHandle: 0
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+Black list ID =  0x41E 0x431 0x48D 0x50D 0x60D 0x731
+Close port OK: status1 = XL_SUCCESS, status2 = XL_SUCCESS
+stopped.
+Replay stopped.
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+useWhiteListID: True
+status1 = XL_ERR_INVALID_PORT
+Close port OK: status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+stopped.
+Connect OK to write channel: 1, portHandle: 0
+Started
+INFO channel detected: 4
+InfoChannel = 4, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+Black list ID =  0x41E 0x431 0x48D 0x50D 0x60D 0x731
+White list ID =  0x80 0xD9 0x100 0x102 0x106 0x10A 0x112 0x127 0x128 0x129 0x12F 0x133 0x134 0x17E 0x1F8 0x1F9 0x206 0x209 0x20C 0x20D 0x215 0x21C 0x2CA 0x2F8 0x302 0x330 0x351 0x352 0x353 0x380 0x393 0x39D 0x3AF 0x3C4 0x3C5 0x3C6 0x3E0 0x3E1 0x3F7 0x40A 0x40D 0x411 0x422 0x432 0x435 0x436 0x437 0x43A 0x445 0x446 0x456 0x493 0x502 0x504 0x516 0x517 0x52F 0x68D 0x6EF 0x6FF 0x733 0x7DF

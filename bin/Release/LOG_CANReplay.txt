@@ -1,0 +1,7 @@
+status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+stopped.
+Started
+status1 = XL_ERR_INVALID_PORT, status2 = XL_SUCCESS
+INFO channel detected: 1
+InfoChannel = 1, AccessMask = 1, Bitrate = 500000, BufferSize = 1024, Delay = 0, IsAutoDetectInfo = True
+skipIDs =  0x41E 0x431 0x48D 0x50D 0x60D 0x731

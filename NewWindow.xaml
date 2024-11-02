@@ -1,0 +1,20 @@
+﻿<Window x:Class="CANReplay.NewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CANReplay"
+        mc:Ignorable="d"
+        Title="NewWindow" Height="450" Width="638">
+    <Grid>
+        <Button Content="Start" Click="Button_Click" HorizontalAlignment="Left" Margin="433,357,0,0" VerticalAlignment="Top" Width="111" Height="43" RenderTransformOrigin="1.09,0.535"/>
+        <TextBox x:Name="command_tb" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"
+            HorizontalAlignment="Left" Height="331" Margin="17,10,0,0" Text="" VerticalAlignment="Top" Width="603" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+        <Button Content="Connect" Click="Button_Click_1" HorizontalAlignment="Left" Margin="17,357,0,0" VerticalAlignment="Top" Width="79" Height="43"/>
+        <Button Content="Disconnect" Click="Button_Click_2" HorizontalAlignment="Left" Margin="110,357,0,0" VerticalAlignment="Top" Width="80" Height="43"/>
+        <Label Content="Disconnected" Name="connected2_lb" HorizontalAlignment="Left" Margin="204,357,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,-0.115" Width="87" Height="40"/>
+        <TextBox  HorizontalAlignment="Left" Name="delay2_tb" Height="40" Margin="390,360,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="38" RenderTransformOrigin="-0.594,0.522"/>
+        <Label Content="Delay" HorizontalAlignment="Left" Margin="347,363,0,0" VerticalAlignment="Top" Width="43" Height="37"/>
+        <Label Content="Stopped" Name="status2_lb" HorizontalAlignment="Left" Margin="549,371,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
